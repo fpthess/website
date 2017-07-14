@@ -1,0 +1,51 @@
+---
+# yo
+---
+@import "whiteglass";
+
+form {
+
+  label, textarea {
+    display: block;
+  }
+
+  input[type=text],
+  input[type=email],
+  textarea {
+    background: #e6e6e6;
+    padding: 5px;
+    outline: none;
+    border: none;
+    margin-bottom: .5rem;
+    width: 100%;
+  }
+
+  input[type=text],
+  input[type=email] {
+    height: 44px;
+  }
+
+  textarea {
+    font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif
+  }
+
+  input[type=submit] {
+    display: block;
+    background-color: #21653f;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1em;
+    line-height: 1.2em;
+    font-weight: 400;
+    padding: .5em 1.5em;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: .5em;
+    transition: background-color .14s ease-in-out;
+  }
+}
+
+
