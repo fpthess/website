@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/your@email.com" method="POST">
+<form action="https://formspree.io/kongeor@gmail.com" method="POST">
   <label for="name">Name</label>
   <input type="text" name="name">
   <label for="email">Email</label>
