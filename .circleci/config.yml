@@ -1,9 +1,10 @@
-dependencies:
-  post:
-    - bundle exec jekyll build
-
-deployment:
-  prod:
-    branch: master
-    commands:
+version: 2
+jobs:
+  build:
+    working_directory: ~/circulate
+    docker:
+      - image: circleci/ruby:2.4.1
+    steps:
+      - checkout
+      - bundle exec jekyll build
       - ./deploy.sh
