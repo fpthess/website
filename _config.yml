@@ -42,7 +42,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
 
-google_analytics: UA-NNNNNNNN-N123
+google_analytics: UA-102978263-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
