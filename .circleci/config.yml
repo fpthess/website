@@ -1,0 +1,9 @@
+dependencies:
+  post:
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - ./deploy.sh
