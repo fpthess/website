@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to functional programming thessaloniki user group!"
-date:   2017-07-22 16:02:06 +0300
+date:   2017-07-22 15:02:06 +0300
 categories: update
 ---
 Welcome to _Functional Programming Thessaloniki User Group_. _FPThess_ is the evolution
