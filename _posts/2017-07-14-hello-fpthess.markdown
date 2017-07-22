@@ -11,7 +11,8 @@ a wider variety of languages and technologies and to, hopefuly, find more people
 _FPThess_ events will take place at [lambdaspace] starting at September 2017.
 The goal is to have presentations and workshops, with at least one event a month.
 To be informed about news and events, check the [RSS feed][feed.xml],
-[twitter][fpthess-twitter], [newsletter] or [lambdaspace events][lambdaspace-events].
+follow [me on twitter][twitter], subscribe for the [newsletter] or
+check [lambdaspace events][lambdaspace-events].
 
 If you want to present something or just say hello, please [contact] me.
 
@@ -23,7 +24,7 @@ Kostas
 [lambdaspace]: https://lambdaspace.gr/
 [contact]: https://fpthess.github.io/contact
 [feed.xml]: https://fpthess.github.io/feed.xml
-[fpthess-twitter]: https://fpthess.github.io/feed.xml
+[twitter]: https://twitter.com/kongeor
 [newsletter]: https://fpthess.github.io/newsletter
 [lambdaspace-events]: https://community.lambdaspace.gr/
 
