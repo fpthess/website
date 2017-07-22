@@ -8,4 +8,7 @@ jobs:
       - checkout
       - run: bundle install
       - run: bundle exec jekyll build
+      - add_ssh_keys:
+          fingerprints:
+            - "ed:29:40:c0:ad:21:4e:d7:25:a4:0f:57:1e:47:1b:b5"
       - run: ./deploy.sh
