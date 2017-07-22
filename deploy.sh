@@ -7,5 +7,5 @@ cp -rf _site/* build
 cd build
 git add *
 git commit -a -m "build"
-git push -u origin master
+ssh-agent bash -c 'ssh-add ~/.ssh/id_rsa_ed2940c0ad214ed725a40f571e471bb5; git push -u origin master'
 cd ..
